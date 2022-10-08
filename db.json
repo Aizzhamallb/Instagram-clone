@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "number": "500214114",
+      "name": "Aizhamal",
+      "password": "888",
+      "passwordConfirm": "888",
+      "username": "812.zh",
+      "id": 1
+    },
+    {
+      "number": "500214114",
+      "name": "Aizhamal",
+      "password": "888",
+      "passwordConfirm": "888",
+      "username": "aizzhamallb",
+      "id": 2
+    },
+    {
+      "number": "500214114",
+      "name": "Nurzat",
+      "password": "888",
+      "passwordConfirm": "888",
+      "username": "777n",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "url": "https://avatars.mds.yandex.net/i?id=771fe808b26bd0e3e84541dbb8f825e7-5235960-images-thumbs&n=13",
+      "desc": "jam",
+      "id": 1
+    }
+  ]
+}
